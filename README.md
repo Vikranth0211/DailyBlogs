@@ -1,6 +1,6 @@
-# Logly - Blog Application
+# DailyBlogs - Blog Application
 
-A full-stack blog application for creating and managing blog posts.
+A full-stack blog app for managing blog posts.
 
 ## Features
 
