@@ -15,7 +15,7 @@ const port = process.env.PORT || 4000;
 
 // Basic route to test if server is running
 app.get('/', (req, res) => {
-  res.send('LOGLY API is running');
+  res.send('DailyBlog API is running');
 });
 
 
